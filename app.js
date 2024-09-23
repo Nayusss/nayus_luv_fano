@@ -57,24 +57,19 @@ let soundBarsLottie = bodymovin.loadAnimation({
 
 let trackList = [
     {
+        name: "I think they call this love",
+        artist: "Elliot James Reay",
+        path: "./music/I Think They Call This Love - Elliot James Reay.mp3",
+    },
+    {
+        name: "Bad",
+        artist: "Wave to Earth",
+        path: "./music/wave to earth - bad.mp3",
+    },
+    {
         name: "Only",
         artist: "Lee Hi",
         path: "./music/only.mp3",
-    },
-    {
-        name: "Day & Night",
-        artist: "Jung Seung Hwan",
-        path: "./music/day and night.mp3",
-    },
-    {
-        name: "Love of my Life",
-        artist: "Reyne",
-        path: "./music/love of my life.mp3",
-    },
-    {
-        name: "The Only One",
-        artist: "Reyne",
-        path: "./music/the only one.mp3",
     },
 ];
 
